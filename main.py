@@ -1,6 +1,5 @@
 import os
 import random
-import re
 import time
 
 print("\033[35m", "\n\n\n\nThe Ultimate ToDo List Manager.", "\033[0m")
@@ -9,6 +8,7 @@ print("\n\n\nLoading the ToDo App....\n")
 print("please wait....")
 time.sleep(5)
 os.system("clear")
+
 
 red = "\033[31m"
 green = "\033[32m"
